@@ -36,7 +36,7 @@ A simple desktop **Password Manager** built with **WinForms** and **SQLite**, fo
 
 | 🔐 | 
 |------|
-| ![Main](./PasswordManager.png) |
+| ![Main](./PasswordManager ) |
 ---
 
 ## 📚 Learning Goals
